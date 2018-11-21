@@ -43,5 +43,3 @@ $(document).ready(function(){
     // TODO: write some code here
   });
 });
-
-
